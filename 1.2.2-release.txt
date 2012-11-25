@@ -1,0 +1,43 @@
+
+Helpshift SDK 1.2.1 Release Notes (for iOS)
+-----------------------------------------------
+
+Helpshift is an embedded support desk for native apps.
+Helpshift SDK for iOS is required for having Helpshift support running on native apps.
+
+Requirements:
+App must be running on iOS 4, 5, or 6.
+The SDK works with armv7 or armv7s as well as i386 (iOS simulator) architectures.
+
+Documentation for Installation and Usage Instructions:
+http://www.helpshift.com/docs/
+
+New features:
+1.2.2 Release Date: November 23, 2012
+	* Change in the method signature for installing the Helpshift library support.
+	* Bug fixes
+	* UI fixes
+1.2.1 Release Date: November 12, 2012
+	* iPod touch carrier does not exist (case handled)
+	* UIView choppy animations fixed
+	* Reachability class conflict fixed
+	* Memory leak fixes
+	* UI/Stability fixes
+
+1.2.0 Release Date: November 2, 2012
+        * Funnel support
+        * UI Changes/Fixes
+        * Powered By Helpshift logo
+        * Stability fixes
+        * New UI for the library including half-modal and fullscreen views
+        * Screenshot thumbnail
+        * Network warnings
+        * Review Feedback workflow
+        * Skinning support for the app through the admin dashboard
+        * Extra device information
+        * Debug logs for the app
+        * Breadcrumbs support
+        * Was this FAQ helpful workflow
+        * Universal library with support for simulator, armv7, armv7s versions
+        * Support for iPhone 5
+        * Improved stability and performance

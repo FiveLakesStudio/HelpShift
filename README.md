@@ -1,4 +1,0 @@
-HelpShift
-=========
-
-Helpshift
