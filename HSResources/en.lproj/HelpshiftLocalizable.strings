@@ -45,7 +45,7 @@
 "Please try again or check your network connection." = "Please try again or check your network connection.";
 "We will only ask for your details when you report your first issue. For more details read our privacy policy at http://www.helpshift.com/privacypolicy/" = "We will only ask for your details when you report your first issue. For more details read our privacy policy at http://www.helpshift.com/privacypolicy/";
 "Attaching device information will give the developer details of your device to help solve your problem quicker."= "Attaching device information will give the developer details of your device to help solve your problem quicker.";
-"Describe your problem" = "Describe your problem";
+"Describe your problem" = "What can we help with?";
 "Your Name" = "Your Name";
 "Your email address (optional)" = "Your email address (optional)";
 "Email invalid" = "Email invalid";
@@ -55,7 +55,7 @@
 "Please enter a brief description of the issue you are facing." = "Please enter a brief description of the issue you are facing.";
 "Attach device information" = "Attach device information";
 "REPORT A NEW ISSUE" = "REPORT A NEW ISSUE";
-"REPORT AN ISSUE" = "REPORT AN ISSUE";
+"REPORT AN ISSUE" = "CONTACT US";
 "Question" = "Question";
 "Section" = "Section";
 "Was this helpful?" = "Was this helpful?";
