@@ -29,11 +29,11 @@
 "No faqs found in this section" = "No faqs found in this section";
 "Could not fetch faqs" = "Could not fetch faqs";
 "FAQ" = "FAQ";
-"My Issues" = "My Issues";
+"My Issues" = "My Feedback";
 "Can't find what you were looking for?" = "Can't find what you were looking for?";
-"No issues here. Whee !" = "No issues here. Whee !";
-"Loading your issues..." = "Loading your issues...";
-"Add an Issue" = "Add an Issue";
+"No issues here. Whee !" = "No feedback/issues yet!";
+"Loading your issues..." = "Loading your feedback/issues...";
+"Add an Issue" = "Contact Us";
 "NEW ISSUE" = "NEW ISSUE";
 "Thank you for reporting this issue." = "Thank you for reporting this issue.";
 "Thank you for reporting this issue. We have received it and will get back to you." = "Thank you for reporting this issue. We have received it and will get back to you.";
@@ -86,4 +86,4 @@
 "Inbox" = "Inbox";
 "Sending failed !" = "Sending failed !";
 "Screenshot could not be sent. Image is too large, try again with another image" = "Screenshot could not be sent. Image is too large, try again with another image";
-"Help" = "Help";
+"Help" = "Help and Feedback";
