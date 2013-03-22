@@ -1,5 +1,5 @@
 
-Helpshift SDK 2.0.0-rc.1 Release Notes (for iOS)
+Helpshift SDK 2.0.0 Release Notes (for iOS)
 -----------------------------------------------
 
 Helpshift is an embedded support desk for native apps.
@@ -13,6 +13,10 @@ Documentation for Installation and Usage Instructions:
 http://www.helpshift.com/docs/
 
 New features:
+2.0.0 Release Date: March 20, 2013
+       * registerDeviceToken api is now asynchronous
+       * Bug fixes
+       * UI fixes
 2.0.0-rc.1 Release Date: March 13, 2013
        * Urban Airship bug fixes on iPad
        * Fixes for custom popovers on iPhone
